@@ -2,7 +2,7 @@
 
 **Upload files to the desired directory and they will automatically be published to the repository.**
 
-Packages [full list](content.txt) | statistics:
+xxxPackages [full list](content.txt) | statistics:
 
 	 * [jessie-desktop]: Armbian jessie desktop (packages: 86)
 	 * [jessie-utils]: Armbian jessie utilities (packages: 20)
